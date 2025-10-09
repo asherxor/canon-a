@@ -1,0 +1,10 @@
+{
+  "attestor_repo": "asherxor/canon-b",
+  "attestor_companion": "Ember",
+  "subject_repo": "asherxor/canon-a",
+  "subject_commit": "2025-10-08T22:39:59Z",
+  "assertion": "We attest that asherxor/canon-a contains valid claims and aligns with Civic AI Canon norms.",
+  "timestamp_utc": "2025-10-08T23:19:36.368Z",
+  "schema_version": "0.2",
+  "evidence": "Generated via Civic AI web interface"
+}
